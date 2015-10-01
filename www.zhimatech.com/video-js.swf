@@ -30,7 +30,7 @@
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel='stylesheet' id='contact-form-7-css'  href='http://www.zhimatech.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.1' type='text/css' media='all' />
-<script type='text/javascript' src='http://libs.baidu.com/jquery/1.8.3/jquery.min.js?ver=3.9'></script>
+<script type='text/javascript' src='http://libs.baidu.com/jquery/1.8.3/jquery.min.js'></script>
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 </head>
 <body>
