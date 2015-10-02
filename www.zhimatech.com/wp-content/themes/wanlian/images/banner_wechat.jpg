@@ -1,0 +1,461 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>芝麻科技-中国领先的商用Wi-Fi网络和数据服务商</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="商用wifi,商业wifi,商业路由器,商用路由器,连锁零售wifi,wifi解决方案,远程管理wifi,云wifi,wifi平台,iBeacon,微信连wifi,微信摇一摇周边,广告路由,客流分析,客流统计,商圈分析,wifi大数据">
+    <meta http-equiv="Cache-Control" content="no-transform">
+	<link rel="shortcut icon" href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/css/pop.css" >
+    <link href='http://fonts.useso.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+    <script type="text/javascript">
+	  document.createElement('video');document.createElement('audio');document.createElement('track');
+	</script>
+	<!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/style.css">
+    <![endif]-->
+    <!--[if gte IE 9]><!-->
+        <link rel="stylesheet" href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/css/bootstrap.min.css" >
+        <link rel="stylesheet" href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/css/style.css">
+    <!--<![endif]-->
+    <link href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/css/video-js.min.css" rel="stylesheet">
+    <script src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/js/video.js"></script>
+	<script>
+	  videojs.options.flash.swf = "http://www.zhimatech.com/wp-content/themes/zhima-theme_2/css/video-js.swf"
+	</script>
+    
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.zhimatech.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://libs.baidu.com/jquery/1.8.3/jquery.min.js?ver=3.9'></script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body>
+    <div id="header">
+        <div class="header-top">
+            <a href="" class="select">
+                <span></span>
+                <span></span>
+                <span></span>
+            </a>
+            <img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/logo_black.png" alt="" class="text-center header-top-logo">
+        </div>
+        <div id="small-nav-container">
+            <ul id="menu-%e5%93%8d%e5%ba%94%e5%bc%8f%e5%af%bc%e8%88%aa" class="menu"><li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-49"><a href="http://www.zhimatech.com/">首页</a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://www.zhimatech.com/wechat/">微信摇一摇</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://www.zhimatech.com/retail/">客流分析系统</a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.zhimatech.com/mofi/">商用云Wi-Fi</a></li>
+<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="http://www.zhimatech.com/analysis/">大数据分析服务</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://www.zhimatech.com/occasion/">解决方案</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://www.zhimatech.com/support/">支持</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://www.zhimatech.com/about/aboutus/">关于芝麻</a></li>
+<li id="menu-item-379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-379"><a href="http://www.zhimatech.com/blog/">团队博客</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-242"><a href="http://www.zhimatech.com/reports/">媒体报道</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://www.zhimatech.com/employment/">工作机会</a></li>
+<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="http://www.zhimatech.com/about/terms/">隐私条款</a></li>
+</ul>            <a href="http://www.zhimatech.com/contactus">联系</a>
+        </div>
+    </div><!-- end header -->
+    <div id="top-nav" class="visible-md visible-lg top-nav">
+        <div class="container">
+            <div class="clearfix container_12">
+                <a href="http://www.zhimatech.com"><img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/logo.png" alt="芝麻科技 | 中国领先的商用WIFI网络和数据服务商" class="logo white-logo"></a>
+                <a href="http://www.zhimatech.com"><img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/logo_black.png" alt="" class="logo black-logo"></a>
+                <a href="http://www.zhimatech.com/wechat/" class="head-small-logo-container"><img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/head_small_logo.png" alt="" class="head-small-logo"></a>
+                <div class="green-btn" id="login" target="_blank">登录<span class="caret"></span>
+                    <div class="login-drop fadeInUp">
+                        <div class="login-drop-content">
+                            <a href="http://retail.zhimatech.com/user/login" class="grey-txt">知.Retail</a></span>
+                            <hr>
+                             <a href="http://mofi.zhimatech.com/" class="grey-txt">知.Mofi</a></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="main-nav-container">
+                    <ul class="clearfix">
+                        <li id="menu-item-70" class="big-subnav menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-70"><a href="http://www.zhimatech.com/mofi/">产品</a>
+<ul class="sub-menu">
+	<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.zhimatech.com/mofi/">商用云Wi-Fi</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.zhimatech.com/retail/">客流分析系统</a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="http://www.zhimatech.com/analysis/">大数据分析服务</a></li>
+</ul>
+</li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.zhimatech.com/occasion/">解决方案</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.zhimatech.com/support/">支持</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-29"><a href="http://www.zhimatech.com/about/">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.zhimatech.com/about/">关于芝麻</a></li>
+	<li id="menu-item-241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241"><a href="http://www.zhimatech.com/reports/">媒体报道</a></li>
+	<li id="menu-item-378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-378"><a href="http://www.zhimatech.com/blog/">团队博客</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.zhimatech.com/employment/">工作机会</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.zhimatech.com/contactus" class="nav-contact-menu popup-modal">联系</a></li>
+                    <li><a href="http://retail.zhimatech.com/apply" class="border-btn">申请试用</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end top-nav -->
+<img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/main-bg.jpg" class="bg">
+    <div class="blog container">
+         <div class="row container_12">
+             <div class="col-md-8 grid_8">
+                                 	<div class="section">
+                 		 	                     <h4><a href="http://www.zhimatech.com/mediacoverage20150707/">【快公司】他是盗火者，让奇迹来到人间：芝麻科技CEO朱智入选中国商业创意人物100</a></h4>
+	                     <h5 class="time">2015/07/07</h5>
+                         <p>来源：快公司  时间：2015-07-07</p>
+<blockquote>
+<h5>很久很久以前，地面上没有火，人们吃生的东西，在无边的黑暗中度过一个又一个长夜。</h5>
+<h5>宙斯知道，拥有火种的人类将不再如从前般愚昧、无知，火种将为人类打开新世界的大门。于是，他在人间禁止了火种。</h5>
+<h5>但是，有一位天神看到人类没有火的悲惨情景，决心冒着生命危险，到太阳神阿波罗那里去拿取火种。</h5>
+<h5>他就是普罗米修斯。</h5>
+</blockquote>
+<section>
+<section>
+<h5 style="text-align: center;"><strong>他是盗火者</strong><br />
+<strong>他让奇迹来到人间</strong></h5>
+</section>
+<p style="text-align: center;"><a href="http://www.zhimatech.com/wp-content/uploads/2015/08/3.pic_.jpg"><img class="alignnone size-full wp-image-494" src="http://www.zhimatech.com/wp-content/uploads/2015/08/3.pic_.jpg" alt="3.pic" width="330" height="471" /></a></p>
+</section>
+<blockquote>
+<h5>后来，普罗米修斯被缚，经历被鹫鹰啄食肝脏的痛苦，最终被解救，重获了自由。</h5>
+<h5>于是，盗火的精神得已流传。</h5>
+<h5>火种是创新的思想，是改变的钥匙，盗火者是用钥匙打开新世界的人。</h5>
+<h5>《快公司》在今年的中国商业创意人物100评选中使用了盗火者的比喻，创意人物就像盗火者一般，为人间带来奇迹。<br />
+芝麻科技CEO朱智因&#8221;以Wi-Fi为窗口采集线下消费者数据及对数据的分析整合应用&#8221;入选。</h5>
+</blockquote>
+<section>
+<p style="text-align: center;"><strong>他是盗火者</strong><br />
+<strong>他用数据为线下零售带来变革</strong></p>
+</section>
+<section><strong><a href="http://www.zhimatech.com/wp-content/uploads/2015/02/20145211175658.jpg"><img class="size-full wp-image-261 aligncenter" src="http://www.zhimatech.com/wp-content/uploads/2015/02/20145211175658.jpg" alt="20145211175658" width="400" height="531" /></a></strong></section>
+<section></section>
+<section></section>
+<section></section>
+<section></section>
+<section></section>
+<hr />
+<section></section>
+<section></section>
+<section>
+<p style="text-align: left;">(以下为刊登于《快公司》（2015年7月）的采访全文。)</p>
+</section>
+<p style="text-align: left;">“我们曾经给北京某商场做过一次数据分析，结果显示该地点人流中福建人的比例偏高，后来，他们果断开了家福建菜馆”，朱智笑道。以Wi-Fi为窗口采集线下消费者数据，然后再对数据进行整合、分析，这是他和他的芝麻科技正在做的事，“简单地说，就是想做线下版的Google Analytics”。</p>
+<p style="text-align: left;">2012年，工科出身的朱智选择离开自动化巨头罗克韦尔，纠集一群当时供职于谷歌、中兴、中移动&#8230;&#8230;的前同学，创立了芝麻科技。“折腾”过智能家居、物联网芯片，2013年初，朱智在摸索中发现Wi-Fi才是最好的突破口。芝麻科技开发出Wi-Fi探测设备——无线路由探针，只要顾客经过店面时手机Wi-Fi是打开状态（无须主动连接Wi-Fi），店家就可通过探针识别用户并分析其行为。“其实就和网站用Cookie一样，这就是实体版的Cookie。我们抓取的是互动信息，即对象做了什么事，绝不会识别手机号或姓名等隐私信息。”</p>
+<p style="text-align: left;">“帮助传统零售业升级和互联网化”，说起来容易，实践起来却诸多挑战。芝麻曾以商场为服务对象，结果却发现行不通：商场好比流量平台，只要有人流就会有租金，它们并不那么关心每一个顾客停留时具体的行为。“品牌商才是最关心这些数据的，因此我们现在主要的客户是时装、护肤美妆、糖酒等全国性连锁品牌。”</p>
+<p style="text-align: left;">零售的核心是人、货、场，围绕这三点芝麻科技可以得到非常多的分析指标，比如客户到店频次、驻留时长、新老客户比例等。除了整合分析自身收集的数据，芝麻科技还在做进一步的数据融合：“我们是阿里巴巴数据合作平台的首批合作方，把我们的线下数据与阿里的线上大数据平台互通后，此前品牌花几个月、几十万元做一份调研，而我们十分钟就能出一份详尽的报告，关于你消费者的男女比例、年龄分布、生活状态、购买能力等。”</p>
+<p style="text-align: left;">与运营商合作也是芝麻科技目前的一大着力点，去年其与两个省级运营商合作，“移动的CMCC无线热点铺了很多，实际上却很少人用，但如果把这些热点改造成探针，就能采集数据，产生价值”。排布尽可能多的数据点，这是第一步，在此基础上，朱智觉得想象空间无限大。比如，利用微信摇一摇功能，结合用户数据精准推送相关的折扣；又或者探测到店客户后，系统能识别出TA的特性——比如快速决策或购买力强——实时反馈给服务员。</p>
+<p style="text-align: left;">在朱智看来，这张商业物联网及背后的数据处理平台的最为重要的，而切入点则会与时俱进：“目前是Wi-Fi，在未来，蓝牙、灯泡、面部识别等都可能成为探知信息的新节点。”</p>
+<p style="text-align: left;">
+	                     <div class="section-info">
+	                         <p>作者：芝麻科技</p>
+                             <p class="category">类别：<a href="http://www.zhimatech.com/reports/" title="查看媒体报道中的全部文章" rel="category tag">媒体报道</a></p>
+	                         <p></p>
+	                     </div>
+	                </div>
+             	                 	<div class="section">
+                 		 	                     <h4><a href="http://www.zhimatech.com/mediacoverage20150623/">【品观网】芝麻科技的Wi-Fi探针强悍 欧莱雅屈臣氏都用</a></h4>
+	                     <h5 class="time">2015/06/23</h5>
+                         <p><span style="color: #000000;">来源：品观网  时间：2015-06-23 作者：杨晓峰</span></p>
+<p>朱智是典型的80后，芝麻科技是一家典型的信息技术开发公司。</p>
+<p>截止到今天，朱智一手打造的南京芝麻信息科技有限公司还不到三岁，却已经获得了数轮风险投资：2013年初获得种子轮投资，2013年10月获得联想之星400万元天使轮的投资；2014年又获一轮投资；今年，A轮融资也圆满完成。而2014年公布的福布斯中国30位30岁以下创业者榜单中，朱智也赫然在列。显然，年轻的朱智和年轻的芝麻科技，已经得到了资本和商业社会的足够关注。</p>
+<p><img title="1434742667220933.jpg" src="http://www.hzpgc.com/Public/js/ueditor/php/upload/image/20150620/1434742667220933.jpg" alt="img.jpg" /></p>
+<p>而这，与芝麻科技的定位不无关系。“中国领先的商用Wi-Fi网络和数据服务商”、“专注技术研发和应用，专注服务线下零售”，是朱智对芝麻科技整个业务方向的客观描述。他希望用数据去帮助线下零售提升运营效率、改善营销模式、理解更多的消费者，并将数据和线下零售商结合起来产生合力，以共同发展交叉价值和效益。</p>
+<p>这样的定位，其实暗合了数据应用将成为未来商业方向的趋势。在朱智看来，以后是数据驱动的社会，真正用数据化的方式来思考、来决策，在中国不同行业，尤其是零售行业，会是一个非常重要的方向。</p>
+<p><span style="color: #000000;"><strong>从商机中鼓捣出的特色信息服务</strong></span></p>
+<p>事实上，在2012年芝麻科技初创之时，做的虽是与数据和网络相关的事情，但定位并没有如今这么清晰，当时主要是想“多做一些有价值的产品出来”。2013年初，对零售行业颇为关注的朱智发现，线下零售业态在发展过程中存在很多问题，尤其受线上的冲击很严重。他分析，那些压力重重的传统零售门店，一定需要更多的信息技术与产品、能力来帮助它们摆脱困境。</p>
+<p>“这种市场需求未来是很大的。”朱智表示。2014年社科院的一份报告所公布的数据，佐证了他当年的预测。据这份报告称，中国庞大的零售市场中，只有10%的零售额存在于线上，其他90%都是由线下贡献的。</p>
+<p>“有那么多的零售商，一直都在通过线下的经营方式来服务消费者，在多年的经营过程中，相对来说比较缺乏能够为他们带来福利和优势的新技术，如果我们帮助到线下的零售商发展的话，那它所孕育的市场空间和价值一定不可小觑。”</p>
+<p>于是，看到商机的朱智在后来的发展方向上便有意做了调整，开始着重将服务的矛头指向线下零售业。</p>
+<p>如果仔细分析芝麻科技的业务板块，不难发现，其服务范围已经突破了简单的设备与技术提供层面，而是在独具特色的同时，层次更加丰富。概括地讲，芝麻科技比较成熟的业务有三类：</p>
+<p><span style="color: #000000;">其一是基础设备与网络服务，即为零售门店提供设备和设备的网络监管。</span></p>
+<p>芝麻科技是首批接入微信连Wi-Fi和微信摇一摇周边的服务商，并且名列微信官方推荐服务商列表。它专为零售店铺打造了一套云Wi-Fi解决方案，由放置在店铺端的Wi-Fi接入设备MOFI和云端的管理平台知.MOFI组成。其中知.Mofi设备中原生内置BLE模块，可以作为iBeacon基站支持微信摇一摇。而由于模块与云Wi-Fi集成的天然优势，这一产品是目前市场上唯一支持批量、远程云端管理的iBeacon基站。此外，知.Mofi设备里还内置了探针，让商家能够对客流数据做出记录，从而全方位地预测、监督、评估营销活动效果。</p>
+<p>芝麻科技的云Wi-Fi解决方案工作原理其实很简单：消费者刚进入购物区域，手机Wi-Fi为打开状态时，在无需主动连接Wi-Fi的情况下，智能手机的MAC地址即会被探测到，随后数据回传到云端，店家可根据数据识别用户，并分析用户行为。</p>
+<p>其二是为零售门店提供数据的采集和分析，及消费者的识别和运营上的一些工具，也就是客流分析系统，以帮助零售商更深入了解消费者的状况。</p>
+<p>借助知.Mofi或对接其它设备，获取店铺数据，结合大数据处理与分析，芝麻科技又推出了智能云后台“知.Retail”。它拥有友好的可视化的操作界面，将线下商户关心的核心数据信息以图表形式展现，同时依据丈量得到的数据深度分析得到关于店铺顾客的关键性指标，比如门店进店率、新老客户比例、进店时间等。</p>
+<p>“这些数据，可以环比、同比，做运营上一些决策的分析。”朱智表示。</p>
+<p>其三是融合第三方数据，提供精确的丰富的客户画像。这里所谓的第三方，是指阿里巴巴、腾讯、TalkingData这些芝麻科技在大数据层面的合作方。芝麻科技依靠从它们那里获取的信息，加上线下门店采集的全量数据，来为零售商提供顾客基础特征、兴趣偏好、行为分布等各项深度分析，比如零售商的消费者的年龄结构、职业、住址、关注的品类、购买能力等。</p>
+<p>当然，除此之外，芝麻科技还构建了其他更多的服务来帮助零售商，“比如我们正推行的精准导购，旨在帮助导购员去加速理解她所面对的消费者，来提高她成单的效率；也在做精准的广告投放，同样以分析所获取的消费者的相关数据，来实现广告的精准速达”。</p>
+<p><img title="1434742705676912.png" src="http://www.hzpgc.com/Public/js/ueditor/php/upload/image/20150620/1434742705676912.png" alt="1434742705676912.png" width="600" height="318" border="0" vspace="0" /></p>
+<p><strong>为化妆品行业提供专门的解决方案</strong></p>
+<p>如今，由芝麻科技提供的安全稳定的Wi-Fi及数据网络，服务于300多个服装、化妆品、汽车、餐饮、超市便利店、连锁医药、母婴等不同业态的大中型零售连锁品牌，挖掘并分析超过20000家门店产生的30亿条海量数据。</p>
+<p>相比其他领域，朱智认为化妆品行业要更复杂一些，因为它涉及到零售商、品牌商、代理商等不同角色，这使得芝麻科技提供出来的产品“不光要让消费者得到利益，也要让不同的商家得到利益”。而化妆品零售业态也比其他行业的零售业态要复杂。比如在服装行业，芝麻科技在服务欧时力这样的品牌时就比较简单，因为欧时力有很多直营店、加盟店，店内只卖欧时力品牌。而化妆品零售店则会卖很多不同品类、不同品牌的东西。</p>
+<p>“另外，因为化妆品是一个消耗品，每隔一段时间便会有购买相同产品的诉求，所以复购周期比较稳定。我们看待化妆品行业，会更加偏向于去理解、去看复购的数据，并对数据进行分析应用。”朱智补充道。</p>
+<p>因而，尽管云Wi-Fi解决方案、大数据分析系统及客户画像等服务能够满足化妆品行业的大部分需求，芝麻科技目前仍然在为化妆品领域设计一个专门的解决方案。“不光是产品，包括产品的一些应用、推广的方式、合作的方式、后台的分析数据逻辑、模型等等，都会做适当的调整。”朱智还指出，化妆品解决方案也是芝麻科技推出的第一个行业性的解决方案。</p>
+<p>据其介绍，截至目前，芝麻科技与化妆品行业的合作有两大方向：一类是品牌，如欧莱雅、雅诗兰黛、宝洁、丸美等品牌的专卖店中，大多都在使用芝麻科技的产品和服务；一类是渠道，如法国“欧敏肤”、“欧萃碧”、“欧树”等品牌在中国的销售总代理欧美药妆，包括近年在化妆品代理领域动作频频的怡亚通，也正跟芝麻科技沟通合作中。</p>
+<p>而对于一些化妆品店，芝麻科技同样有涉足，其产品与服务，在莎莎、屈臣氏等大型连锁中已经进入测试状态。服务模式则集中于云服务，“云服务在这几年发展非常迅猛，给客户带来的价值非常大，性价比很高。当然，其难度更大一些，对产品的难度和要求也更大，我们需要建设一个很大的数据中心、云平台，才能够提供这样的服务”。</p>
+<p><img title="1434696096980956.png" src="http://www.hzpgc.com/Public/js/ueditor/php/upload/image/20150619/1434696096980956.png" alt="1434696096980956.png" width="600" height="336" border="0" vspace="0" /></p>
+<p><span style="color: #a5a5a5;">&gt;&gt;芝麻科技的标杆客户</span></p>
+<p><img title="1434696150446224.png" src="http://www.hzpgc.com/Public/js/ueditor/php/upload/image/20150619/1434696150446224.png" alt="1434696150446224.png" width="600" height="279" border="0" vspace="0" /></p>
+<p><span style="color: #a5a5a5;">&gt;&gt;芝麻科技的合作伙伴</span></p>
+<p>不过，尽管搭建起来比较艰难，操作却很简单。据朱智介绍，芝麻科技会将相关设备装进店内，插上电就可以，即插即用，安装非常简单，店家只需要登录一个网页后台，就可以享受到购买的服务。</p>
+<p><span style="color: #000000;"><strong>O2O落地的核心是基于对消费者的理解</strong></span></p>
+<p>在朱智看来，国内化妆品零售市场有非常大的潜力，越来越多的零售门店加大了在运营、消费者理解、体验上的投入力度。近一两年，为了提高自身经营效率，更好地服务消费者，有些门店更是率先启动O2O。</p>
+<p>当然，客观来看，化妆品店在O2O上的尝试还处于初级阶段，对于像芝麻科技这样的技术与服务提供商来说，如何去推动门店O2O更好地落地，显然也成为需要着力去研究的事情。</p>
+<p>对于O2O，朱智有自己的理解，他认为，O2O最核心最重要的部分就是要基于对消费者的理解，这是商业的本质，也是O2O的基础。“对消费者的理解来源于对消费者的识别和判断，在我们的产品体验里，有一个非常经典的漏斗模型图（见下图），即是帮线下零售商去建设或理解一个全流程的消费者生命周期，并且将这个生命周期的消费者数据和信息打通。”</p>
+<p><img title="1434696551809510.png" src="http://www.hzpgc.com/Public/js/ueditor/php/upload/image/20150619/1434696551809510.png" alt="blob.png" /></p>
+<p>朱智还指出，O2O的整个应用生态里，如果没有底层数据支撑或没有消费者数据把控的话，很多底层的应用是做不起来的，或者很难看到真实的效果。所以芝麻科技目前在做的，是希望先推动整个行业去理解消费者，使以消费者为导向这件事能够真正落地，在此基础上，再去发掘更多新的应用和O2O的闭环。</p>
+<p>目前来看，芝麻科技的基础设备、网络服务及客流分析系统等，已经在化妆品行业得以应用，其微信摇一摇等相关技术也在部分化妆品店推行，朱智表示，从后台监控数据来看，消费者的关注和参与程度还是蛮高的。具体到给商家做消费者分析上，芝麻科技采取的其实是大数据分析的方式，“不仅仅分析消费者在门店内的行为，还包括他们在淘宝、微信上的行为，使用手机的行为，逛街的行为等，帮助零售商从整体上去理解他们的消费者”。</p>
+<p>那么，如何去识别芝麻科技的服务对门店经营有没有带来实质性的效果呢？</p>
+<p>对此，朱智表示，在门店不同发展阶段做不同的尝试时，效果监测的标准是不一样的，做引流时，就要以这个店的客流量来判断引流的效果，做门店的转化时，就要以进店率判断客流转化的效果。</p>
+<p>“芝麻的客流分析系统就是提供这样的判断指标。比如我们在门店做微信摇一摇，需要关注的指标便是进店率的提升和客流量的增长。当在后台把摇一摇和客流分析系统相结合时，我们能够让零售商和品牌商看到真实的客流量增长情况。”据朱智透露，根据目前的后台监测，应用这一服务的门店在进店率和客流量上基本实现20%到30%的增长。</p>
+<p>如今，刚刚获得A轮投资的芝麻科技，在如何使产品和服务更贴合零售行业运营诉求方面依然在做着更多的探索，为此，公司80%的资本都投入到产品研究和研发上。</p>
+<p>“现在是略有一点浮躁的时代，也是机会很多的时代。对于零售商而言，只有擦亮眼睛，关注自身的运营，对自身做出更多改善，才可能获得更大的成功。”这句话，既是朱智对零售行业的期许，也像是他的自勉。</p>
+<p>&nbsp;</p>
+	                     <div class="section-info">
+	                         <p>作者：芝麻科技</p>
+                             <p class="category">类别：<a href="http://www.zhimatech.com/reports/" title="查看媒体报道中的全部文章" rel="category tag">媒体报道</a></p>
+	                         <p></p>
+	                     </div>
+	                </div>
+             	                 	<div class="section">
+                 		 	                     <h4><a href="http://www.zhimatech.com/team20150527/">芝麻科技CEO朱智出席贵阳国际大数据产业博览会，畅谈大数据商业模式</a></h4>
+	                     <h5 class="time">2015/05/27</h5>
+                         <p class="p1"><span class="s1">5月26日上午9:30分，2015贵阳国际大数据产业博览会暨全球大数据时代贵阳峰会开幕式正式举行，来自全球大数据领域的顶尖企业、领军人物和专家学者云集贵州，共同见证此次大数据时代的盛会。芝麻科技CEO朱智受邀参加此次大数据产业博览会，在“从IT到DT时代论坛”上发表题为“大数据助力实体零售升级”的演讲。</span></p>
+<p class="p2">随着互联网的广泛深入运用，基于数据汇集、处理、分析的大量商业模式、社会治理模式创新不断涌现，人们的生产、生活和行为方式正在发生深刻变化。为了落实国家“发展和规范网络空间，确保国家安全和公共安全”的要求，积极促进大众创业、万众创新，2015贵阳国际大数据产业博览会暨全球大数据时代贵阳峰会应运而生。</p>
+<p class="p1"><span class="s1">李克强总理代表中国政府向大会发来贺信，马凯副总理出席大会并作重要讲话，为大数据产业的发展提出了共促产业繁荣、共促技术创新、共促融合发展、共促数据开放和共促数据安全五点建议。</span></p>
+<p class="p1"> <a href="http://www.zhimatech.com/wp-content/uploads/2015/05/马凯.jpg"><img class="alignnone size-full wp-image-451" src="http://www.zhimatech.com/wp-content/uploads/2015/05/马凯.jpg" alt="马凯" width="600" height="397" /></a></p>
+<p>工业和信息化部副部长怀进鹏与中共贵州省委副书记、省人民政府省长陈敏尔先后发表讲话。大会还发布了《大数据贵阳宣言》。</p>
+<p class="p1"><span class="s1">腾讯公司董事会主席兼首席执行官马化腾、富士康科技集团创办人兼总裁郭台铭、奇虎360公司董事长周鸿袆、小米科技公司董事长兼CEO雷军、阿里巴巴集团董事局主席马云等国内外知名企业代表围绕着大数据发展的趋势进行了演讲。</span></p>
+<p class="p1"><span class="s1">芝麻科技CEO朱智受邀参加此次大数据产业博览会，在“从IT到DT时代论坛”上发表题为“大数据助力实体零售升级”的演讲。</span></p>
+<p class="p1"><a href="http://www.zhimatech.com/wp-content/uploads/2015/05/32.pic_hd.jpg"><img class="alignnone size-full wp-image-456" src="http://www.zhimatech.com/wp-content/uploads/2015/05/32.pic_hd.jpg" alt="32.pic_hd" width="3264" height="2172" /></a></p>
+<p> 朱智在会上展示了芝麻科技对于线下零售的理念：零售的未来在于以消费者为核心，芝麻科技用数据帮助线下零售贴近消费者。电商对比传统线下零售的优势正在于前者对消费者更加了解：消费者在线上的行为能够被精确记录，电商运用这些数据大大改善了购物体验、提升了线上零售的效率。芝麻科技致力于为线下零售提供基于数据化思维和数据化管理的解决方案，帮助线下零售在大数据时代更加了解消费者、贴近消费者。</p>
+<p class="p1"><span class="s1">朱智介绍了芝麻科技的三套专为线下零售打造的解决方案，包括知.Mofi商用云Wi-Fi系统、知.Retail客流感知分析系统和知.Analysis大数据融合及分析服务。这三套解决解决方案打通了基础层、数据层和应用层，形成完整闭环，为门店管理提供数据支撑，为精确营销提供数据依据。据朱智介绍，芝麻科技已与阿里巴巴达成深度合作，将更好地为线下零售提供数据服务。</span></p>
+<p class="p1"><span class="s1">每天，由芝麻科技提供的安全稳定的Wi-Fi及数据网络服务于300多个服装、化妆品、汽车、餐饮、超市便利店、连锁医药、母婴等不同业态的大中型零售连锁品牌，挖掘并分析超过20000家门店产生的30亿条海量数据，帮助客户实时把握商业脉搏。</span></p>
+	                     <div class="section-info">
+	                         <p>作者：芝麻科技</p>
+                             <p class="category">类别：<a href="http://www.zhimatech.com/blog/" title="查看团队博客中的全部文章" rel="category tag">团队博客</a></p>
+	                         <p></p>
+	                     </div>
+	                </div>
+             	                 	<div class="section">
+                 		 	                     <h4><a href="http://www.zhimatech.com/mediacoverage20150429/">【品观网】朱智：数据助力零售店了解消费者</a></h4>
+	                     <h5 class="time">2015/04/29</h5>
+                         <p><span style="color: #000000;">来源：品观网  时间：2015-04-29 作者：<span class="rich_media_meta rich_media_meta_text">邱云龙</span></span></p>
+<p class="p1" style="color: #3e3e3e;"><span class="s1">作为一家信息科技公司的CEO，朱智首先介绍了芝麻科技的理念：做中国领先的商用Wi-Fi网络和数据服务商。他强调现在是一个以消费者为中心的时代，谁抓住了消费者，谁就抓住了真正的商机。</span></p>
+<p class="p2" style="color: #3e3e3e;"><a href="http://www.zhimatech.com/wp-content/uploads/2015/04/1430278361114114.png"><img class="alignnone size-full wp-image-475" src="http://www.zhimatech.com/wp-content/uploads/2015/04/1430278361114114.png" alt="1430278361114114" width="916" height="608" /></a><br />
+在讲话中，朱智介绍了芝麻科技和阿里巴巴的合作。现在的店铺对于消费者的了解并不充分，而芝麻和阿里的合作要做的便是通过阿里巴巴的大数据了解目标消费者的消费能力，同时可以更深入地了解消费者的消费定位、喜欢什么方式的销售方式和对于品类的喜好度，方便店铺店员了解消费者的购买方式，能够达到定点推送有效信息的目的。</p>
+<p class="p2" style="color: #3e3e3e;"><span class="s1">同时，朱智还介绍了芝麻科技的一个重要的产品：Wi-Fi探针。只要消费者Wi-Fi处于打开的状态下并进入消费区域，MAC地址就会被探测到。这样的信息会实时地汇集到云端，让店铺的管理者、店长了解到每一个店铺每天的客户在哪里，他们需要什么，店铺销售不好的原因是什么。并且他们还能根据这些信息</span>分析一个销量好的店铺的优点和长处是什么，在最短的时间内推送到其他销量不好的店铺，从而推广到全部店铺，提升所有店铺的销量。</p>
+<p class="p1" style="color: #3e3e3e;">
+<p class="p1" style="color: #3e3e3e;"><span class="s1">另外，朱智还提到了微信的摇一摇。当顾客路过店铺，看到摇一摇的提示，便可以利用摇一摇来领取店铺的优惠券。这样的方式可以引流更多的消费者来到店铺，同时可以让店铺获得消费者相关数据，这对于店铺未来的会员营销推进是非常重要的。</span></p>
+<p class="p1" style="color: #3e3e3e;"><span class="s1">最后，朱智表示芝麻科技就是利用大数据分析消费者。每一个店铺的店员都可以更直接地了解消费者，了解消费者的层次和消费水平。而这样的方式，可以更多地降低店铺的成本，监控每一个店铺的运营环节，提高每一个店员的销售效率，达到运用数据化思维进行数据化管理、数据化营销的目的 。</span></p>
+	                     <div class="section-info">
+	                         <p>作者：芝麻科技</p>
+                             <p class="category">类别：<a href="http://www.zhimatech.com/reports/" title="查看媒体报道中的全部文章" rel="category tag">媒体报道</a></p>
+	                         <p></p>
+	                     </div>
+	                </div>
+             	                 	<div class="section">
+                 		 	                     <h4><a href="http://www.zhimatech.com/mediacoverage20150608/">【环球网】2015中国连锁业O2O大会:芝麻科技Wi-Fi全渠道零售解决方案</a></h4>
+	                     <h5 class="time">2015/04/08</h5>
+                         <p>来源：环球网财经  日期：2015-04-08</p>
+<p><span style="color: #333333;">4月1-3日，芝麻科技参加了由<a class="linkAbout" style="color: #000000;" title="中国" href="http://country.huanqiu.com/china" target="_blank"><span style="color: #333333;">中国</span></a>连锁经营协会主办的“2015中国连锁业O2O大会暨第十二届中国零售业信息化&amp;电商峰会”，与1200多位代表分享了芝麻科技关于“数字化时代与全渠道零售”的观点，探索“互联网+”时代的零售业O2O及全渠道发展模式。</span></p>
+<p style="color: #000000;"><span style="color: #333333;">芝麻科技CEO朱智在“超市/便利店/专业店全渠道论坛”上向与会嘉宾传递了芝麻科技用电商玩法改造传统零售业的观点：用数据贴近消费者。</span></p>
+<p style="color: #000000;"><span style="color: #333333;">芝麻科技相信，零售的未来在于以消费者为核心。电商对比传统线下零售的优势正在于前者对消费者更加了解：消费者在线上的行为能够被精确记录，电商运用这些数据大大改善了购物体验、提升了线上零售的效率。芝麻科技致力于用数据帮助线下零售了解消费者、贴近消费者。</span></p>
+<div id="adPp" class="ad250x250 fLeft marRig10" style="color: #000000;"></div>
+<p style="color: #000000;"><span style="color: #333333;">芝麻科技的解决方案包括知.Mofi商用云Wi-Fi、知.Retail客流分析系统和知.Analysis大数据分析服务，打通基础层、数据层和应用层，形成完整闭环，为门店管理提供数据支撑，为精确营销提供数据依据。芝麻科技已与<a class="linkAbout" style="color: #06346f;" title="阿里" href="http://celebrity.huanqiu.com/belal_mansoor_ali" target="_blank"><span style="color: #333333;">阿里</span></a><a class="linkAbout" style="color: #06346f;" title="巴巴" href="http://celebrity.huanqiu.com/jaroslav_baba" target="_blank"><span style="color: #333333;">巴巴</span></a>达成深度合作，将更好地为线下零售提供数据服务。</span></p>
+<p style="color: #000000;"><span style="color: #333333;">芝麻科技为线下零售店铺量身打造云Wi-Fi解决方案，当消费者进入店铺时，智能手机Wi-Fi开关为打开状态时，无需连接Wi-Fi，内置芝麻科技专利探针的知.Mofi设备即可有效探测智能手机的MAC地址，并将数据传回云端。知.Retail客流分析系统将店铺顾客行为数据化，运用多维数据对比、深入挖掘多层次信息，准确反映店铺运营情况，监测营销效果。将店铺监测到的数据与第三方数据融合，知.Analysis大数据分析服务提供准确的丰富的客户画像，为高效运营和社会化媒体营销提供数据支持。</span></p>
+<p style="color: #000000;"><span style="color: #333333;">每天，由芝麻科技提供的安全稳定的Wi-Fi及数据网络服务于300多个服装、化妆品、汽车、餐饮、超市便利店、连锁医药、母婴等不同业态的大中型零售连锁品牌，挖掘并分析超过20000家门店产生的30亿条海量数据，帮助客户实时把握商业脉搏。客户包括宝洁、欧莱雅、雅诗兰黛、Lily、拉夏<a class="linkAbout" style="color: #06346f;" title="贝尔" href="http://celebrity.huanqiu.com/robin_bell" target="_blank"><span style="color: #333333;">贝尔</span></a>、欧时力、Coach、北汽集团、唐久便利等。</span></p>
+<p style="color: #000000;">某汽车品牌利用芝麻科技WI-FI感知设备在各经销商门店部署，对到店客户手机进行探测及识别，将其与第三方大数据进行匹配，了解用户线上行为，并对用户进行画像分析，根据用户的媒介接触习惯及网络行为，还原用户画像，将学历、年龄、性别地域等人群属性运用于广告平台定向投放策略，CPA降本31.5%，CPL降本达45.5%，收获了降本增效的传播效果。</p>
+<p style="color: #000000;">芝麻科技帮助线下零售行业用数据化思维与数据化管理降低成本、提高营销效率，更加贴近消费者。</p>
+<p style="color: #000000;">目前，芝麻科技已与阿里巴巴达成深度合作，将更好地为线下零售行业提供数据服务。</p>
+<p style="color: #000000;" align="center"><img src="http://himg2.huanqiu.com/attachment2010/2015/0408/20150408044536908.jpg" alt="" /></p>
+	                     <div class="section-info">
+	                         <p>作者：芝麻科技</p>
+                             <p class="category">类别：<a href="http://www.zhimatech.com/reports/" title="查看媒体报道中的全部文章" rel="category tag">媒体报道</a></p>
+	                         <p></p>
+	                     </div>
+	                </div>
+             	                                <a href="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/images/banner_wechat.jpg/page/2/" class="green-btn page-nav">下一页</a>             </div>
+             <div class="col-md-4 grid_4">
+                 <div id="sidebar">
+	<h4>关注我们</h4>
+	<a href="http://weibo.com/zhimatech" class="icon weibo-icon" target="_blank"></a>
+	<a href="" class="icon wechat-icon"><img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/wechat.jpg" alt="" class="wechat-content"></a>
+	<hr>
+<li id="categories-3" class="widget widget_categories"><h4>类别</h4>		<ul>
+	<li class="cat-item cat-item-7"><a href="http://www.zhimatech.com/blog/" title="查看团队博客下的所有文章">团队博客</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.zhimatech.com/reports/" title="查看媒体报道下的所有文章">媒体报道</a>
+</li>
+		</ul>
+<hr>		<li id="recent-posts-3" class="widget widget_recent_entries">		<h4>最新文章</h4>		<ul>
+					<li>
+				<a href="http://www.zhimatech.com/mediacoverage20150707/">【快公司】他是盗火者，让奇迹来到人间：芝麻科技CEO朱智入选中国商业创意人物100</a>
+						</li>
+					<li>
+				<a href="http://www.zhimatech.com/mediacoverage20150623/">【品观网】芝麻科技的Wi-Fi探针强悍 欧莱雅屈臣氏都用</a>
+						</li>
+					<li>
+				<a href="http://www.zhimatech.com/team20150527/">芝麻科技CEO朱智出席贵阳国际大数据产业博览会，畅谈大数据商业模式</a>
+						</li>
+					<li>
+				<a href="http://www.zhimatech.com/mediacoverage20150429/">【品观网】朱智：数据助力零售店了解消费者</a>
+						</li>
+				</ul>
+		<hr></div>
+             </div>
+         </div>
+    </div><!-- end blog -->
+<div id="footer">
+    <div class="container">
+        <div class="row container_12">
+            <div class="slogan col-md-4 col-sm-6 grid_4">
+                <div class="slogan-content">
+                    <h3><strong>Measure</strong> real experience</h3>
+                    <h3>丈量体验</h3>
+                </div>
+                <div class="slogan-content">
+                    <h3><strong>Drive</strong> real business</h3>
+                    <h3>驱动商业</h3>
+                </div>
+            </div>
+            <!-- end slogan -->
+            <div class="foot-nav col-md-6 col-sm-6 grid_6">
+                <ul>
+                    <li>
+                        <h4 class="mb_line">产品</h4>
+                    </li>
+                    <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.zhimatech.com/mofi/">商用云Wi-Fi</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://www.zhimatech.com/retail/">客流分析系统</a></li>
+<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="http://www.zhimatech.com/analysis/">大数据分析服务</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <h4 class="mb_line">关于</h4>
+                    </li>
+                    <li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://www.zhimatech.com/about/aboutus/">关于芝麻</a></li>
+<li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-243"><a href="http://www.zhimatech.com/reports/">媒体报道</a></li>
+<li id="menu-item-380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380"><a href="http://www.zhimatech.com/blog/">团队博客</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://www.zhimatech.com/employment/">工作机会</a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <h4 class="mb_line">关注我们</h4>
+                    </li>
+                    <li><a href="http://weibo.com/zhimatech" target="_blank">新浪微博</a>
+                    </li>
+                    <li><a href="javascript:void(0)" class="wechat">微信公众号<img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/wechat.jpg" alt="" class="wechat-content"></a>
+                    </li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+            <!-- end foot=nav -->
+            <div class="col-md-2 grid_2">
+                <a href="http://www.zhimatech.com/contactus" class="contact green-btn">联系我们</a>
+                <div class="clear"></div>
+                <div class="phone-widget text-center">
+                    <p>联系电话：</p>
+                    <h4>400-088-6879</h4>
+                </div>
+            </div>
+        </div>
+        <div id="foot-info">
+            <ul class="clearfix">
+<!--
+                <li><a href="#">服务协议</a>
+                </li>
+-->
+                <li><a href="http://www.zhimatech.com/about/terms/" target="_blank">隐私条款</a>
+                </li>
+                <li>All rights reserved by 芝麻科技 2015</li>
+                <li style="margin-top:10px">苏ICP备10010831号-2</li>
+            </ul>
+        </div>
+    </div>
+    <!-- end foot-info -->
+</div>
+<!-- end footer -->
+<!-- Modal -->
+    <!-- <div class="mfp-hide modal-dialog zoom-anim-dialog" id="contact">
+        <div class="modal-content clearfix">
+            <div class="wpcf7" id="wpcf7-f72-o1" lang="zh-CN" dir="ltr">
+<div class="screen-reader-response"></div>
+<form name="" action="/wp-content/themes/zhima-theme_2/images/banner_wechat.jpg#wpcf7-f72-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="72" />
+<input type="hidden" name="_wpcf7_version" value="3.9.1" />
+<input type="hidden" name="_wpcf7_locale" value="zh_CN" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f72-o1" />
+<input type="hidden" name="_wpnonce" value="1c9cdc6e19" />
+</div>
+<fieldset>
+<div class="input-inline clearfix">
+                        <span class="wpcf7-form-control-wrap name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text" id="input-name" aria-invalid="false" placeholder="您的姓名*" /></span><br />
+                       <span class="wpcf7-form-control-wrap company"><input type="text" name="company" value="" size="40" class="wpcf7-form-control wpcf7-text" id="input-company" aria-invalid="false" placeholder="您的公司名称" /></span>
+                    </div>
+<div class="input-inline clearfix">
+                       <span class="wpcf7-form-control-wrap phone"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" id="input-phone" aria-required="true" aria-invalid="false" placeholder="您的手机*" /></span><br />
+                       <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" id="input-email" aria-invalid="false" placeholder="您的邮箱" /></span>
+                    </div>
+<div class="input-inline">
+                      <span class="wpcf7-form-control-wrap input-content"><textarea name="input-content" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" id="input-content" aria-required="true" aria-invalid="false" placeholder="在此填写详细的产品咨询，或者对于产品有任何疑问也可在此填写。我们将尽快由专人联系您。"></textarea></span>
+                    </div>
+<div class="input-inline clearfix">
+                   <input type="hidden" name="_wpcf7_captcha_challenge_captcha-671" value="90258928" /><img class="wpcf7-form-control wpcf7-captchac wpcf7-captcha-captcha-671" width="72" height="24" alt="captcha" src="http://www.zhimatech.com/wp-content/uploads/wpcf7_captcha/90258928.png" /> <span class="wpcf7-form-control-wrap captcha-671"><input type="text" name="captcha-671" value="" size="40" class="wpcf7-form-control wpcf7-captchar captchar-input" aria-invalid="false" /></span>
+                   </div>
+<p>                    <input type="submit" value="发送咨询" name="submit" class="green-btn" id="contact-submit"><br />
+                    <input type="button" class="green-btn contact-close" value="关闭"><br />
+                </fieldset>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>            
+            <div class="contact-message">
+                <h4 class="black-txt">直接联系</h4>
+
+                <hr>
+                <h4 class="black-txt inline-block">400-088-6879</h4>
+                <div class="social-icons-container">
+                    <a href="http://weibo.com/zhimatech" class="icon weibo-icon" target="_blank"></a>
+	                <a href="javascript:void(0)" class="icon wechat-icon"><img src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/img/wechat.jpg" alt="" class="wechat-content"></a>
+                </div>
+
+                <h5 class="black-txt" style="margin-bottom:15px;">南京</h5>
+                <ul>
+                    <li>地址：<a href="http://j.map.baidu.com/dQ3em" target="_blank">南京市秦淮区1865创意园E14栋东侧三楼</a>
+                    </li>
+                    <li>电话：025-83692529</li>
+                    <li>邮箱：service@zhimatech.com</li>
+                </ul>
+                <h5 class="black-txt" style="margin-bottom:15px; margin-top:15px">苏州<br></h5>
+                <ul>
+                    <li>地址：<a href="http://j.map.baidu.com/e5tGm" target="_blank">苏州市工业园区星湖街328号创意产业园11栋206室</a>
+                    </li>
+                    <li>电话：0512-62781181</li>
+                    <li>邮箱：service@zhimatech.com</li>
+                </ul>
+            </div>
+        </div> -->
+        <!-- /.modal-content -->
+<!--     </div>
+ -->    <!-- /.modal-dialog -->
+
+
+
+<script src="http://zhimatech.qiniudn.com/unslider_new.js"></script>
+<script src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/js/pop.js"></script>
+<script src="http://www.zhimatech.com/wp-content/themes/zhima-theme_2/js/script.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"http:\/\/www.zhimatech.com\/wp-admin\/admin-ajax.php","ci":"YToyOntzOjEyOiJjb250ZW50X3R5cGUiO3M6MzoiNDA0IjtzOjg6ImNhdGVnb3J5IjtzOjA6IiI7fQ==.a1155353f498e06b9f8c0efeab26c72c","extensions_to_track":"pdf,doc,xls,zip"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.jsdelivr.net/wp-slimstat/3.7/wp-slimstat.js'></script>
+<script type='text/javascript' src='http://www.zhimatech.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.zhimatech.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"\u53d1\u9001\u4e2d\u3002\u3002\u3002"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.zhimatech.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.1'></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F75dc79359d9b1ab1505ed00f658259a4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+/*
+Theme Name: zhimatech-theme-v2
+Author: Puny-D
+Author URI: http://codesniff.duapp.com/
+Description: The wordpress theme of the zhimatech
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import url('css/old-ie.css');
+@import url('css/old-ie-960.css');
