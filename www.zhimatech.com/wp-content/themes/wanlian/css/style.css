@@ -209,7 +209,7 @@ body {
 }
 
 .time-detail .mb_1 {
-    margin-bottom: 2.4em;
+    margin-bottom: 1em;
 }
 
 .time-detail .mb_2 {
@@ -219,6 +219,15 @@ body {
 .time-detail .mb_3 {
     margin-bottom: 5em;
 }
+
+.time-detail .mb_4 {
+    margin-bottom: 18em;
+}
+
+.time-detail .mb_5 {
+    margin-bottom: 16.5em;
+}
+
 /*small-nav小设备响应式导航*/
 
 #small-nav-container a {
