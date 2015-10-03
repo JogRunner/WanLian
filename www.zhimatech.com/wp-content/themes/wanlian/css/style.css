@@ -61,6 +61,17 @@ a:active {
     transition: all .3s ease;
 }
 
+.green-add{
+    display: block;
+    background: #35BE9E;
+    text-align: center;
+    height: 3em;
+    line-height: 3em;
+    color: #fff;
+    border-radius: 3px;
+    transition: all .3s ease;
+}
+
 .green-line-btn {
     display: block;
     text-align: center;
